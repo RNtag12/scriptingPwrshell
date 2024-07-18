@@ -1,10 +1,10 @@
 # PowerShell Automation and Scripting for Cybersecurity: Hacking and defense
 
 # General Information
-PowerShell is a task automation framework consisting of a command-line shell and an associated scripting language built on the .NET framework. Developed by Microsoft, PowerShell is widely used for automating the management of systems. Its capabilities extend to various tasks, making it a powerful tool for both system administrators and cybersecurity professionals.
+PowerShell is a task automation framework consisting of a command-line shell and an an Object-oriented scripting language built on the .NET framework. Developed by Microsoft, PowerShell is widely used for automating the management of systems. Its capabilities extend to various tasks, making it a powerful tool for both system administrators and cybersecurity professionals.
 
 # Project Description
-This repository contains projects focused on utilizing PowerShell for cybersecurity purposes, including both offensive and defensive techniques. PowerShell, with its powerful scripting capabilities and deep integration with the Windows operating system, is a valuable tool for cybersecurity professionals.This repository includes a series of projects that demonstrate how to use PowerShell for automating cybersecurity tasks.
+This repository contains projects focused on utilizing PowerShell for cybersecurity purposes, including both offensive and defensive tasks (red and blue teaming). PowerShell, with its powerful scripting capabilities and deep integration with the Windows operating system, is a valuable tool for cybersecurity professionals.This repository includes a series of projects that demonstrate how to use PowerShell for automating cybersecurity tasks.
 
 # Example code
 # Script to perform a basic network scan using PowerShell
